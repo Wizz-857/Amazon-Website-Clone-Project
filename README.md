@@ -1,2 +1,2 @@
 # Amazon-Website-Clone-Project
-This is first project which i have designed to practice HTML and CSS.
+This is my first project designed to practice and enhance my skills in HTML and CSS. Excited to continue learning and improving!
